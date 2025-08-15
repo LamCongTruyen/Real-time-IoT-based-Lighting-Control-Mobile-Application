@@ -11,3 +11,5 @@ Trong dự án này sử dụng hai vi xử lý là STM32 và ESP32, trong đó 
 <img width="832" height="624" alt="image" src="https://github.com/user-attachments/assets/ce429588-0acf-438b-8520-3ca1c566b5d1" />
 
 <img width="436" height="582" alt="image" src="https://github.com/user-attachments/assets/af5da1f9-7741-4c6e-ba42-d3ee0f8ff751" />
+
+Xin cảm ơn bạn đã quan tâm.
