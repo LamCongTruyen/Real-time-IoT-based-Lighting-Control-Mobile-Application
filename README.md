@@ -9,6 +9,8 @@ Dự án cũng sử dụng thêm công cụ IFTTT xây dựng thêm chức năng
 
 Để biết rõ hơn về hoạt động của hệ thống hãy truy cập vào đường link yoututbe: https://www.youtube.com/watch?v=WOC2MnFiE6w
 
+Bài báo cáo: https://drive.google.com/file/d/1OcpdMPP_7gWubHfIrgqicPaLcav5sQP7/view?usp=sharing
+
 ![z6070364046038_478264618ee9d43357201e3119ad68f8](https://github.com/user-attachments/assets/941c05b9-1816-42d9-a18a-a28788823133)
 
 <img width="832" height="624" alt="image" src="https://github.com/user-attachments/assets/ce429588-0acf-438b-8520-3ca1c566b5d1" />
