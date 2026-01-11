@@ -17,4 +17,14 @@ Bài báo cáo: https://drive.google.com/file/d/1OcpdMPP_7gWubHfIrgqicPaLcav5sQP
 
 <img width="436" height="582" alt="image" src="https://github.com/user-attachments/assets/af5da1f9-7741-4c6e-ba42-d3ee0f8ff751" />
 
+# Thiết kế PCB
+
+<img width="678" height="561" alt="image" src="https://github.com/user-attachments/assets/ac5cebae-beee-4a50-8031-2c03b491dc59" />
+
+# Giao diện ứng dụng
+
+<img width="670" height="747" alt="image" src="https://github.com/user-attachments/assets/da86cab0-e8b2-4559-98c8-8b6e6ee2b9e3" />
+
+<img width="670" height="540" alt="image" src="https://github.com/user-attachments/assets/9a9f12da-97af-4def-afa5-7297da647d14" />
+
 Xin cảm ơn bạn đã quan tâm.
